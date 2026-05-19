@@ -1,0 +1,8 @@
+{
+  "name": "BloxDrop: Premium Fruit Injector",
+  "description": "The ultimate Blox Fruits modding companion. Select premium fruits, verify your account, and simulate heavy-duty data injection with a high-energy gaming interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
